@@ -32,11 +32,10 @@ View: Jetpack Compose is used to display the task list, and to interact with use
 Intent: User interactions (such as adding or deleting tasks) are captured as intents, and the UI responds to these intents accordingly.
 Firebase: The tasks are stored in Firebase Realtime Database, providing a backend to store and retrieve tasks.
 Screenshots
-<img src="![WhatsApp Image 2025-02-01 at 12 28 47 AM](https://github.com/user-attachments/assets/807beaaa-9858-4106-bbaa-0bff3664214f)
-" width="400"/>
-<img src="![WhatsApp Image 2025-02-01 at 12 28 46 AM](https://github.com/user-attachments/assets/a3cd6131-1bd8-4542-a017-8e5efbe05928)
-" width="400"/>
-<img src="![WhatsApp Image 2025-02-01 at 12 28 46 AM (1)](https://github.com/user-attachments/assets/5d3d6de6-6d30-4d26-869d-54d21b12c483)
-" width="400"/>
+![WhatsApp Image 2025-02-01 at 12 28 46 AM](https://github.com/user-attachments/assets/b1f029ee-0f27-4152-bec5-f6c26e1dcb16)
+![WhatsApp Image 2025-02-01 at 12 28 46 AM (1)](https://github.com/user-attachments/assets/ea6cf2ca-4ac5-4d90-b638-efaae940149a)
+![WhatsApp Image 2025-02-01 at 12 28 47 AM](https://github.com/user-attachments/assets/dca14b67-1de4-44b4-9e45-9ca5d73e72e0)
+
+
 Contributing
 Feel free to fork this repository and contribute. To submit a pull request, ensure your code follows the project's coding style and passes all tests.
