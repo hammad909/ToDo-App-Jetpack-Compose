@@ -1,41 +1,37 @@
-ToDo App
-This is a simple ToDo app that allows users to add and delete tasks. The app is built using Jetpack Compose, MVI pattern, and Firebase for data storage.
+# ToDo App
 
-Features
-Add Tasks: Users can add tasks to their ToDo list.
-Delete Tasks: Users can delete tasks when no longer needed.
-Firebase Integration: Tasks are stored in Firebase for easy access and persistence.
-Jetpack Compose: The app uses Jetpack Compose for modern UI development.
-MVI Architecture: The app follows the Model-View-Intent (MVI) architecture for state management.
-Tech Stack
-Jetpack Compose: UI framework for building native Android UIs.
-Firebase: Backend service for storing and managing tasks.
-MVI: Architectural pattern used for state management and handling user actions.
-Setup Instructions
-Clone this repository:
+A simple ToDo app built using **Jetpack Compose**, **MVI Architecture**, and **Firebase** for task management and data storage.
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/todo-app.git
-Open the project in Android Studio.
+---
 
-Ensure your project is connected to Firebase. Follow the steps in the Firebase documentation to set up Firebase for your app.
+## Features
 
-Sync the project and build.
+- **Add Tasks**: Easily add tasks to your ToDo list.
+- **Delete Tasks**: Remove tasks you no longer need.
+- **Firebase Integration**: Store tasks in Firebase for seamless data persistence.
+- **Jetpack Compose**: Build modern and responsive UIs with Jetpack Compose.
+- **MVI Architecture**: Manage UI state effectively using the Model-View-Intent (MVI) pattern.
 
-Run the app on your emulator or physical device.
+---
 
-How it Works
-Model: The Todo data model is used to store task details, such as the task description and its status (completed or not).
-View: Jetpack Compose is used to display the task list, and to interact with users via buttons to add or delete tasks.
-Intent: User interactions (such as adding or deleting tasks) are captured as intents, and the UI responds to these intents accordingly.
-Firebase: The tasks are stored in Firebase Realtime Database, providing a backend to store and retrieve tasks.
-Screenshots
-![WhatsApp Image 2025-02-01 at 12 28 46 AM](https://github.com/user-attachments/assets/b1f029ee-0f27-4152-bec5-f6c26e1dcb16)
-![WhatsApp Image 2025-02-01 at 12 28 46 AM (1)](https://github.com/user-attachments/assets/ea6cf2ca-4ac5-4d90-b638-efaae940149a)
-![WhatsApp Image 2025-02-01 at 12 28 47 AM](https://github.com/user-attachments/assets/dca14b67-1de4-44b4-9e45-9ca5d73e72e0)
+## Tech Stack
 
+- **Jetpack Compose**: Modern UI toolkit for building Android apps.
+- **Firebase**: Cloud service to store and sync tasks across devices.
+- **MVI Architecture**: A pattern that helps manage user actions and app states in a scalable way.
 
-Contributing
-Feel free to fork this repository and contribute. To submit a pull request, ensure your code follows the project's coding style and passes all tests.
+---
+
+## Setup Instructions
+
+Follow these steps to get the project up and running locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/todo-app.git
+
+ ## ScreenShots
+<img src="https://github.com/user-attachments/assets/de0986e5-8ee1-4e5d-bcf1-15e030c6e66c" alt="Screenshot" width="400"/>
+<img src="https://github.com/user-attachments/assets/3d211dd5-11fe-4e3d-b16d-3ec16cfa398a" alt="Screenshot" width="400"/>
+<img src="https://github.com/user-attachments/assets/ae58e7bf-41e4-4d7b-875d-03adbc8841b9" alt="Screenshot" width="400"/>
+ 
